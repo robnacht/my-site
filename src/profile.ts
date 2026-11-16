@@ -29,20 +29,21 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "The last two years of my professional career have been spent learning and working within the financial services industry.",
+    "I played football at the University of Delaware for four years and also coached for a season!",
+    "Some of my favorite ways to spend free time include spending time with family and friends, enjoying nature, and carpentry."
   ],
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I was able to graduate from high school early to join the football team, and was one of the first players to do this at UD.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "/photo.svg",
+  photoPath: "myphoto.jpg",
 
   /**
    * Who can see your roster card:
@@ -52,13 +53,13 @@ export const profile = {
   rosterVisibility: "class" as "class" | "professor-only",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "AD ASTRA PER DIFFICULTATES",
 
   /**
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I am currently enrolled in the Alfred Lerner College of Business & Economics at the University of Delaware, studying international business. This site will work as my live portfolio (every course challenge deploys here as a live service.)",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
