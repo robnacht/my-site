@@ -31,8 +31,8 @@ export const profile = {
   funFacts: [
     "The last two years of my professional career have been spent learning and working within the financial services industry.",
     "I played football at the University of Delaware for four years and also coached for a season!",
-    "Some of my favorite ways to spend free time include spending time with family and friends, enjoying nature, and carpentry.",
-    "I am the only person in my immediate family to not go to Penn State.",
+    'I am the only person in my immediate family to not go to Penn State.',
+    "Some of my favorite ways to spend free time include spending time with family and friends, enjoying nature, and carpentry."
   ],
 
   /** One decision you're proud of, in a sentence. */
